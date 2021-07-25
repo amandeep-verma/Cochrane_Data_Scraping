@@ -1,4 +1,8 @@
-Cochrane (Executing Instructions)
+Cochrane Library Crawler (Executing Instructions)
+
+The application aims at extracting the specific information from the Cochrane Library website.
+The application is using Java8, Maven, jsoup (dependency). 
+
 
 
 There are 2 folder in the present directory.
